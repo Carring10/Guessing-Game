@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(32, 45, 73);
+    color: rgb(115, 223, 199);
+}
+
+.score {
+    width: 50%;
+    margin: 50px;
+}
+
+.correct-letters {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.used-letters {
+    width: 50%;
+    margin: 50px;
+}
+
+.alphabet {
+    width: 30%;
+    margin: auto;
+    text-align: center;
+
+}
+
+.alphabet .row-1 {
+    padding: 2px;
+}
+
+
+.alphabet .row-2 {
+    padding: 2px;
+}
+
+
+.alphabet .row-3 {
+    padding: 2px;
+}
+
+button {
+    cursor: pointer;
+    border: none;
+    border-radius: 3px;
+    padding: 4px 10px;
+    font-weight: 600;
+    width: 30px;
+    color: white;
+    background-color: rgb(57, 81, 100);
+}
